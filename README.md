@@ -43,6 +43,9 @@ Administrator MOŻE:
 1. Trzeba pobrać wszystkie pliki z folderów client oraz server (albo cały folder kurs);
 2. Otworzyć folder w VScode;
 3. Otworzyć dwa terminału dla servera i dla clienta;
-4.
+4. Wchodzimy na stronę https://nodejs.org/en/ i dokonujemy instalacji Node.js;
+5. Wpisujemy npm init w obu terminałach;
+6. Po inicjalizacji npm start tak samo w obu;
+7. Bazę danych mam w programie MySqlWorkbench;
 
 
