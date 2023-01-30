@@ -8,8 +8,8 @@ Aplikacja ma takich aktorów jak:
  
  Klient Niezalogowany MOŻE:
 - przeglądać ofertę strony, dostepne kursy (tzn. glowna strone bez dostepu do kursu),
-- logować się (e-mail*, hasło*),
-- zarejestrować się (e-mail*, hasło*),
+- logować się (username*, hasło*),
+- zarejestrować się (username*, e-mail*, hasło*),
 - skontaktować się z administracja (imię, e-mail*, treść*)
 
 Klient Zalogowany  MOŻE:
