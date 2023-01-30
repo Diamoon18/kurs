@@ -7,13 +7,13 @@ Aplikacja ma takich aktorów jak:
  - administrator.
  
  Klient Niezalogowany MOŻE:
-- przeglądać ofertę strony, dostepne kursy (tzn. glowna strone bez dostepu do zajec),
+- przeglądać ofertę strony, dostepne kursy (tzn. glowna strone bez dostepu do kursu),
 - logować się (e-mail*, hasło*),
 - zarejestrować się (e-mail*, hasło*),
 - skontaktować się z administracja (imię, e-mail*, treść*)
 
 Klient Zalogowany  MOŻE:
-- przeglądać ofertę strony, dostepne kursy (tzn. glowna strone z dostepem do zajec),
+- przeglądać ofertę strony, dostepne kursy (tzn. glowna strone z dostepem do kursu),
 - wypełniać kurs - (zapoznać się z teorią, zadania z rozwiązaniami + test jednokrotnego wyboru sprawdzający wiedzę),
 - przegladac informacje o koncie, 
 - skontaktować się z administracją,
@@ -21,8 +21,8 @@ Klient Zalogowany  MOŻE:
 
 Administrator MOŻE:
 - dodawać, edytować, usuwać tresci kursow,
-- sprawdzać, usunac konto konkretnego użytkownika (lista)
-- sprawdzać, usunac maile firmowe,
+- sprawdzać konto konkretnego użytkownika,
+- sprawdzać, usuwać maile firmowe,
 - wylogować się.
 
 ## 2. Już zostało zrobione:
@@ -39,7 +39,10 @@ Administrator MOŻE:
 
 ## 5. Widoki do zrobienia schemat:
 
-## 6. Jak przetestować aplikacje, inaczej instrukcja albo link: 
-
+## 6. Jak przetestować aplikacje, inaczej instrukcja: 
+1. Trzeba pobrać wszystkie pliki z folderów client oraz server (albo cały folder kurs);
+2. Otworzyć folder w VScode;
+3. Otworzyć dwa terminału dla servera i dla clienta;
+4.
 
 
