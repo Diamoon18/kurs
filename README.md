@@ -3,8 +3,8 @@
 ## 1. Studium przypadku 
 Aplikacja ma takich aktorów jak:
  - klient niezalogowany,
- - klient zalogowany,
- - administrator.
+ - klient zalogowany - 0,
+ - administrator - 1.
  
  Klient Niezalogowany MOŻE:
 - przeglądać ofertę strony, dostepne kursy (tzn. glowna strone bez dostepu do kursu),
@@ -20,7 +20,7 @@ Klient Zalogowany  MOŻE:
 - wylogować się.
 
 Administrator MOŻE:
-- dodawać, edytować, usuwać tresci kursow,
+- dodawać, edytować, usuwać tresci kursów,
 - sprawdzać konto konkretnego użytkownika,
 - sprawdzać, usuwać maile firmowe,
 - wylogować się.
@@ -29,6 +29,7 @@ Administrator MOŻE:
 1. Widok główny aplikacji, tzn. można przeglądać ofertę strony oraz dostepne kursy.
 2. Widok logowania i rejestracji (użytkownik zalogowany może się wylogować). (jwt, tokeny)
 3. Baza danych.
+4. Rozdzielenie zwykłego użytkownika zalogowanego od administratora.
 
 ## 3. Do zrobienia: 
 1. Widok kursu z materiałami, zadaniami oraz testami.
