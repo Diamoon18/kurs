@@ -61,5 +61,7 @@ Administrator MOŻE:
 5. Wpisujemy ```npm init``` w obu terminałach;
 6. Po inicjalizacji ```npm start``` tak samo w obu;
 7. Bazę danych mam w programie MySqlWorkbench;
+8. Zaloguj jako administrator: nickname-> diana hasło -> admin@1
+9. Zaloguj jako zwykły użytkownik: nickname-> kamil hasło -> kamil@1
 
 
