@@ -10,13 +10,13 @@ Aplikacja ma takich aktorów jak:
 - przeglądać ofertę strony, dostepne kursy (tzn. glowna strone bez dostepu do kursu),
 - logować się (username*, hasło*),
 - zarejestrować się (username*, e-mail*, hasło*),
-- skontaktować się z administracja (imię, e-mail*, treść*)
+- skontaktować się z administracja (imię, e-mail*, treść*) 
 
 Klient Zalogowany  MOŻE:
 - przeglądać ofertę strony, dostepne kursy (tzn. glowna strone z dostepem do kursu),
 - wypełniać kurs - (zapoznać się z teorią, zadania z rozwiązaniami + test jednokrotnego wyboru sprawdzający wiedzę),
 - przegladac informacje o koncie, 
-- skontaktować się z administracją,
+- skontaktować się z administracją, 
 - wylogować się.
 
 Administrator MOŻE:
@@ -32,9 +32,9 @@ Administrator MOŻE:
 4. Rozdzielenie zwykłego użytkownika zalogowanego od administratora.
 
 ## 3. Do zrobienia: 
-1. Widok kursu z materiałami, zadaniami oraz testami.
-2. Widok profilu użytkownika.
-3. Widok panelu administratora.
+1. Strukturę kursu z materiałami, zadaniami oraz testami -> funkcjonalności administratora.
+2. Kontakt, informacja o stronie (o nas).
+3. Profil użytkownika ?
 
 ## 4. Aktualne problemy:
 1. Problem z wylogowaniem się na innych stronach niż główna (problem ze ścieżką, router).
