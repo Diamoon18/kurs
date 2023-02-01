@@ -56,7 +56,7 @@ Administrator MOŻE:
 ## 7. Jak przetestować aplikacje, inaczej instrukcja: 
 1. Trzeba pobrać wszystkie pliki z folderów client oraz server (albo cały folder kurs);
 2. Otworzyć folder w VScode;
-3. Otworzyć dwa terminału dla servera i dla clienta;
+3. Otworzyć dwa terminale dla servera i dla clienta;
 4. Wchodzimy na stronę https://nodejs.org/en/ i dokonujemy instalacji Node.js;
 5. Wpisujemy ```npm init``` w obu terminałach;
 6. Po inicjalizacji ```npm start``` tak samo w obu;
