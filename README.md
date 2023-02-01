@@ -42,13 +42,20 @@ Administrator MOŻE:
 3. Praca nad formatowaniem tekstu.
 
 ## 5. Widoki zrobione:
+### Strona głowna - użytkownik niezalogowany (nie ma dostępu do kursu, musi być zalogowany)
 ![image](https://user-images.githubusercontent.com/72127610/216113860-05a74266-f814-47b6-a223-06e3dfa744ee.png)
+### Widok logowania
 ![image](https://user-images.githubusercontent.com/72127610/216113923-bd7abd98-4b9d-4fec-a413-11ad8e088e5d.png)
+### Widok rejestracji
 ![image](https://user-images.githubusercontent.com/72127610/216113956-41c8454d-8ed2-4b16-b72e-42125027e7f2.png)
+### Create - Dodać nowy kurs - może tylko administrator
 ![image](https://user-images.githubusercontent.com/72127610/216114091-8d2b0ae5-45f6-44a7-b81e-b904797af182.png)
+### Strona kursu - użytkownik zalogowany (administrator) - może edytować, usuwać kursy + (dodawać bloki i sekcje, edytować oraz usuwać ich - jeszcze w rozwoju) 
 ![image](https://user-images.githubusercontent.com/72127610/216114173-3e651b2a-0264-4f1e-843c-3d0ce977f46c.png)
 ![image](https://user-images.githubusercontent.com/72127610/216114216-f4b5f842-bbc7-4d29-887c-bf9eb54f7f28.png)
+### Strona głowna - użytkownik zalogowany (nie administrator) - nie może dodać nowy kurs
 ![image](https://user-images.githubusercontent.com/72127610/216114407-9c1d3262-68d8-4b24-acd4-95f1a6ea6a94.png)
+### Strona kursu - użytkownik zalogowany (nie administrator) - nie może edytować, usuwać
 ![image](https://user-images.githubusercontent.com/72127610/216114501-ec0840b7-b589-4cc3-959f-bc2a45e6916e.png)
 
 ## 6. Widoki do zrobienia schemat:
