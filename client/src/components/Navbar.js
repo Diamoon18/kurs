@@ -1,9 +1,11 @@
 import React, { useContext } from 'react';
 import { Link } from 'react-router-dom';
 import { AuthContext } from "../contex/contexAuth.js";
+import { useNavigate } from "react-router-dom";
 
 const Navbar = () => {
   const { currentUser, logout } = useContext(AuthContext);
+  const navigate = useNavigate();
 
   return (
     <div className='navbar'>
@@ -22,7 +24,7 @@ const Navbar = () => {
           {currentUser ? 
             (
               <>
-                <span onClick={logout}> Logout </span> 
+                <span onClick={()=>{navigate('/');logout()}}> Logout </span> 
                 {currentUser.role==="1" ? (
                   <span className='write'>
                     <Link className="link "to="/create">Create</Link>
