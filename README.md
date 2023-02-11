@@ -37,9 +37,8 @@ Administrator MOŻE:
 3. Profil użytkownika ?
 
 ## 4. Aktualne problemy:
-1. Problem z wylogowaniem się na innych stronach niż główna (problem ze ścieżką, router).
-2. Ponowne załadowanie głownego zdjęcia kursu.
-3. Praca nad formatowaniem tekstu.
+1. Ponowne załadowanie głownego zdjęcia kursu.
+2. Praca nad formatowaniem tekstu.
 
 ## 5. Widoki zrobione:
 ### Strona głowna - użytkownik niezalogowany (nie ma dostępu do kursu, musi być zalogowany)
