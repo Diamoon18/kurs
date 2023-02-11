@@ -32,7 +32,7 @@ Administrator MOŻE:
 4. Rozdzielenie zwykłego użytkownika zalogowanego od administratora.
 
 ## 3. Do zrobienia: 
-1. Strukturę kursu z materiałami, zadaniami oraz testami -> funkcjonalności administratora.
+1. Strukturę kursu z materiałami, zadaniami oraz testami -> funkcjonalności administratora - w trakcie.
 2. Kontakt, informacja o stronie (o nas).
 3. Profil użytkownika ?
 
