@@ -60,7 +60,7 @@ Administrator MOŻE:
 ## 6. Widoki do zrobienia schemat:
 ### Schemat zawartości kursu - użytkownik zalogowany.
 ![image](https://user-images.githubusercontent.com/72127610/218272136-5d7b3de2-2f64-4acf-a755-3dc74406b929.png)
-#### Schemat zawartości kursu dla administratora taki sam tylko z możliwością dodawania, educji oraz usuwania bloków, seksji. /
+#### Schemat zawartości kursu dla administratora taki sam tylko z możliwością dodawania, educji oraz usuwania bloków, seksji. 
 #### W sekcji możliwość zrobienia testu jednokrotnego wyboru.
 
 ## 7. Jak przetestować aplikacje, inaczej instrukcja: 
